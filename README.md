@@ -1,17 +1,4 @@
-<p align="center"><img width="300" src="/src/assets/images/wp-react-ts.jpg" alt="React starter app with Headless Wordpress" /></p>
-
-<h3 align="center">
-  WP React Typescript
-</h3>
-
-<p align="center">
-  A React starter app with Headless Wordpress using REST API
-</p>
-
-<p align="center">
-  <a href="https://github.com/loq24/wp-react-typescript/"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
-</p>
-
+## Free to use for anyone wanting to get a quick wordpress and react site running
 ## What's included?
 
 - A Wordpress backend that's been preconfigured to support authentication using [wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth) plugin
